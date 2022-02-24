@@ -1,16 +1,18 @@
 # week1SemanticHW
 
+GitHub Page: https://simonasnap.github.io/week1SemanticHW/
+
 What I learned from this homework
     How to set up a repo and workspace and connect it to gitHub
-    Semantic Markup
+    Semantic Markup:
         <header><footer><article><section>...
-    Combined CSS elements
+    Combined CSS elements:
         To combine classes its .,
         .class,.secondClass,.thirdClass
         To combine elements in a class you must list it with each class
         .class p, .secondClass p, .thirdClass p
 
-This file is a Horiseon landing page that goes over marketing strategies, what they mean, and how they are helpful
+This file is a Horiseon landing page that goes over marketing strategies, what they mean, and how they are helpful:
     Search Engine Optimization
     Online Reputation Management
     Social Media Marketing
