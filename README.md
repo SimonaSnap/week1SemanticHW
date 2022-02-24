@@ -22,6 +22,9 @@ This file is a Horiseon landing page that goes over marketing strategies, what t
         Brand Awareness
         Cost Management
 
+Screenshot:
+![A picture of the deployed HTML file](/assets/images/website-screenshot.png?raw=true "Horiseon Screenshot") 
+
 
 Copyright (c) 2019 Horiseon
 
